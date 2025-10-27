@@ -84,7 +84,7 @@ echo "<h1>Apache Web Server Installed Successfully</h1>" > /var/www/html/index.h
 cd /var/www/html
 sudo nano projects.html
 
-# Paste HTML content
+# HTML content
 <!DOCTYPE html>
 <html>
 <body>
